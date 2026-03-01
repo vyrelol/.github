@@ -59,3 +59,7 @@ Contribution guidelines and templates are defined in this repository.
 * No mandatory public exposure
 * Full infrastructure ownership
 * Clean, scalable system design
+  
+---
+
+###### It also would be great if someone made a Logo for this. thank you in advance! :D
