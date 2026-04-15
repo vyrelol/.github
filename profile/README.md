@@ -1,65 +1,24 @@
-# Nexar Chat
-
-**Nexar Chat** is a hybrid communication platform designed to support both centralized and decentralized deployment models.
-
-Our goal is to provide a modern, self-hostable, secure, and modular alternative to traditional communication platforms while giving users full control over their infrastructure.
-
----
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/logo-white.png" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/logo-dark.png" />
+    <img src="./assets/logo-dark.png" alt="Vyre Logo" width="200" />
+  </picture>
+    <h1>Vyre</h1>
+    <p>Next-generation chat and community platform built for speed, security, and modern gaming communities.</p>
+</div>
 
 ## Vision
 
-Nexar Chat is built around a **hybrid architecture**:
+Our mission is to help people connect with friends and communities through fast, reliable, and secure communication. We are building Vyre with a strong focus on product quality, privacy, and a seamless user experience, and we continue to invest in meaningful improvements across the platform.
 
-* **Centralized Mode**
-  A hosted main instance managed by the core project.
+## Who We Are
 
-* **Decentralized Mode**
-  Fully self-hosted private instances, completely isolated and independently operated.
+Vyre was founded by two friends who used Discord daily. Frustrated by product decisions that we felt did not serve users well, we set out to build a platform that reflects our values and better supports both close friend groups and broader communities.
 
-This allows individuals, communities, and organizations to choose their preferred deployment model without vendor lock-in.
+## Contact
 
----
-
-## Repository Structure
-
-The organization is structured into separate repositories:
-
-* **Server** Backend implementation (API, auth, realtime, persistence)
-* **Client** Frontend application
-* **Core** Integration repository (uses Git submodules to reference Server and Client)
-* **.github** Organization-wide configuration (this repository)
-
----
-
-## Technology Stack
-
-* **Language:** TypeScript
-* **Runtime:** Node.js (Server)
-* **Client:** Web-based (framework TBD)
-* **Architecture:** Modular, extensible, deployment-agnostic
-
----
-
-## Contributing
-
-We aim to maintain:
-
-* Clean, typed, maintainable code
-* Strict separation of concerns
-* Clear architectural boundaries between modules
-* Self-hosting as a first-class feature
-
-Contribution guidelines and templates are defined in this repository.
-
----
-
-## Philosophy
-
-* No forced central authority
-* No mandatory public exposure
-* Full infrastructure ownership
-* Clean, scalable system design
-  
----
-
-###### It also would be great if someone made a Logo for this. thank you in advance! :D
+We are actively building Vyre. If you have questions, partnership inquiries, or feedback, please contact us:
+- [contact@vyre.lol](mailto:contact@vyre.lol)
+- [sam@vyre.lol](mailto:sam@vyre.lol)
+- [jonas@vyre.lol](mailto:jonas@vyre.lol)
